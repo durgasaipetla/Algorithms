@@ -1,0 +1,22 @@
+1)Question:
+
+Print the FACTORIAL OF A NUMBER
+
+Problem: We're given an integer 'N' by the user. Our task is to calculate the factorial of this number and print it. The factorial of a number is the product of all positive integers up to that number.
+
+For example, the factorial of 5 (denoted as 5!) is 1 * 2 * 3 * 4 * 5 = 120.
+
+Approach: To find the factorial, we'll start with a product of 1 (since multiplying by 1 doesn't change a number) and then multiply it by every number from 1 to N.
+
+
+2)Question:
+
+Print all the FACTORS OF A NUMBER.
+
+Problem: We're given an integer 'N' by the user. Our task is to print all factors of this number. Factors are numbers that divide evenly into another number. For example, the factors of 10 are 1, 2, 5, and 10 because these numbers divide 10 without leaving a remainder.
+
+Approach: We'll use a loop that runs from 1 to N. For each number in this range, we'll check if it is a factor of N (i.e., if N divided by the number leaves no remainder). If it is, we print it out.
+
+
+3)Question:
+Create a program that checks if a STUDENT-GRADECHECK is above 50 and prints "Pass", else it prints "Fail". The program should accept an integer 'grade' as input.
